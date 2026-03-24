@@ -4,5 +4,5 @@
 
 #### Datos Masivos
 
-Este es el repositorio para la materia de BDR de la MCD, UANL
+Este es el repositorio para la materia Datos Masivos de la MCD, UANL
 Del Alumno [Jose Landero](https://github.com/joserlandero)
